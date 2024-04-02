@@ -11,7 +11,7 @@
    ],
    "require": {
     "php": "^8",
-    "laravel/framework": "^6.0|^7.0|^8.0|^9.0",
+    "laravel/framework": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
     "sinergi/browser-detector": "6.1.*"
    },
    "require-dev": {
